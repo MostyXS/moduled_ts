@@ -1,0 +1,11 @@
+{
+  "name": "project_name",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:MostyXS/project_name.git",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }, "author": "MostyXS"
+}
